@@ -1,0 +1,8 @@
+{
+  "name": "Mapa dos 4 Pesos do Cuidado",
+  "description": "Quiz rápido para descobrir qual dos 4 pesos do cuidado mais sobrecarrega você hoje e qual é o primeiro passo para aliviar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
